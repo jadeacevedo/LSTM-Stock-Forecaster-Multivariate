@@ -1,1 +1,5 @@
-blob:https://colab.research.google.com/a7a640c5-6ba1-441b-87b2-194ee795b82b<img width="1570" height="4385" alt="image" src="https://github.com/user-attachments/assets/09fbb3ce-7ca6-4fb3-b9f0-5919da081e13" />
+## Project Overview
+The primary objective was to develop a robust prediction system capable of capturing the intricate patterns and temporal dependencies inherent in financial markets. While traditional models often struggle with the volatility of stock data, this project leverages deep learning architectures specifically designed for sequential data.
+<img width="1528" height="1082" alt="image" src="https://github.com/user-attachments/assets/d2a006d1-cb86-4fb0-ac6d-e77938bd47c1" />
+
+
